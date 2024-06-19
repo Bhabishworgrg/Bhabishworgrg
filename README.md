@@ -1,4 +1,4 @@
-# Hi, I’m @Bhabishworgrg!
+# Hi, I’m Bhabishwor Gurung!
 
 I'm currently an undergraduate student of BSc (H) Computing at [The British College, Kathmandu](https://www.thebritishcollege.edu.np/) with a love for software development. Here, you'll find some of the projects I've been working on.
 
