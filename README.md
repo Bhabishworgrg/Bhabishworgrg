@@ -4,7 +4,7 @@ I'm currently an undergraduate student of BSc (H) Computing at [The British Coll
 
 ## About Me
 
-- 🔭 I’m currently working on [Tutorials](https://github.com/Bhabishworgrg/Tutorials) and [Java-Mini-Projects](https://github.com/Bhabishworgrg/Java-Mini-Projects)
+- 🔭 I’m currently working on [React](https://github.com/Bhabishworgrg/Tutorials) and [Java](https://github.com/Bhabishworgrg/Java-Mini-Projects)
 - 🌱 I’m currently learning React.JS.
 - 👯 I’m open for collaborations.
 
