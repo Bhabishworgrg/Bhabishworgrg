@@ -4,15 +4,15 @@ I'm currently an undergraduate student of BSc (H) Computing at [The British Coll
 
 ## About Me
 
-- 🔭 I’m currently working on [React](https://github.com/Bhabishworgrg/Tutorials) and [Java](https://github.com/Bhabishworgrg/Java-Mini-Projects)
-- 🌱 I’m currently learning React.JS.
+- 🔭 I’m currently working on [C++](https://github.com/Bhabishworgrg/hangman), [React](https://github.com/Bhabishworgrg/Tutorials) and [Java](https://github.com/Bhabishworgrg/Java-Mini-Projects)
+- 🌱 I’m currently learning C++.
 - 👯 I’m open for collaborations.
 
 ## Skills
 
 Here are some of the technologies and tools I have worked with:
 
-- **Languages**: Java, Python, C, C#, GDScript, SQL, HTML, CSS
+- **Languages**: Java, Python, C++, C#, GDScript, SQL, HTML, CSS
 - **Frameworks/Libraries**: React.js, Node.js, Bootstrap
 - **Database Management**: Oracle Apex
 - **Game Development**: Godot
