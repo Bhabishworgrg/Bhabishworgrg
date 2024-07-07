@@ -4,8 +4,8 @@ I'm currently an undergraduate student of BSc (H) Computing at [The British Coll
 
 ## About Me
 
-- 🔭 I’m currently working on [C++](https://github.com/Bhabishworgrg/hangman), [React](https://github.com/Bhabishworgrg/Tutorials) and [Java](https://github.com/Bhabishworgrg/Java-Mini-Projects)
-- 🌱 I’m currently learning C++.
+- 🔭 I’m currently working on [React](https://github.com/Bhabishworgrg/lutorials) and [Java](https://github.com/Bhabishworgrg/Java-Mini-Projects)
+- 🌱 I’m currently learning React.
 - 👯 I’m open for collaborations.
 
 ## Skills
