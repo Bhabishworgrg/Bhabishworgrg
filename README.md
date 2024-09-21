@@ -4,8 +4,8 @@ I'm currently an undergraduate student of BSc (H) Computing at [The British Coll
 
 ## About Me
 
-- 🔭 I’m currently working on [React](https://github.com/Bhabishworgrg/lutorials) and [Java](https://github.com/Bhabishworgrg/Java-Mini-Projects)
-- 🌱 I’m currently learning React.
+- 🔭 I’m currently working on [Memory Match](https://github.com/Bhabishworgrg/memory-match.git)
+- 🌱 I’m currently learning game development with Godot and C#.
 - 👯 I’m open for collaborations.
 
 ## Skills
