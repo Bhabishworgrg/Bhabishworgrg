@@ -4,7 +4,6 @@ I'm currently an undergraduate student of BSc (H) Computing at [The British Coll
 
 ## About Me
 
-- 🔭 I’m currently working on [Memory Match](https://github.com/Bhabishworgrg/memory-match.git)
 - 🌱 I’m currently learning game development with Godot and C#.
 - 👯 I’m open for collaborations.
 
