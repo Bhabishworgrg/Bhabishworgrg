@@ -19,8 +19,7 @@ Here are some of the technologies and tools I have worked with:
 
 ## GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhabishworgrg&show_icons=true&theme=radical)
-
+![My GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Bhabishworgrg&theme=dark)
 ## Get in Touch
 
 Feel free to reach out if you want to collaborate on a project, have a question, or just want to connect!
