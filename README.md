@@ -18,8 +18,15 @@ Here are some of the technologies and tools I have worked with:
 - **Other Tools**: Git, Figma, XAMPP
 
 ## GitHub Stats
-
-[![My GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Bhabishworgrg&theme=dark)](https://github.com/FajarKim/github-readme-profile)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhabishworgrg&theme=dark"/> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhabishworgrg&theme=dark"/> 
+</div>
+<br>
+<div align="center">
+  <img src="https://gh-readme-profile.vercel.app/api?username=Bhabishworgrg&theme=dark"/>
+</div>
 
 ## Get in Touch
 
