@@ -1,38 +1,67 @@
-# Hi, I’m Bhabishwor Gurung!
+### Hi there, 👋
+I’m [Bhabishwor](https://bhabishworgrg.github.io/), an aspiring backend developer.
 
-I'm currently an undergraduate student of BSc (H) Computing at [The British College, Kathmandu](https://www.thebritishcollege.edu.np/) with a love for software development. Here, you'll find some of the projects I've been working on.
-
-## About Me
-
-- 🌱 I’m currently learning game development with Godot and C#.
-- 👯 I’m open for collaborations.
-
-## Skills
-
-Here are some of the technologies and tools I have worked with:
-
-- **Languages**: Java, Python, C/C++, C#, SQL, HTML, CSS
-- **Frameworks**: Bootstrap
-- **Database Management**: Oracle Apex
-- **Game Development**: Godot
-- **Other Tools**: Git, Figma, XAMPP
-
-## GitHub Stats
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhabishworgrg&theme=dark"/> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhabishworgrg&theme=dark"/> 
-</div>
-<br>
-<div align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=Bhabishworgrg&theme=dark"/>
+<div align="left">
+<h4>Languages</h4>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png"/>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"/>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"/>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png"/>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png"/>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png"/>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png"/>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png"/>
 </div>
 
-## Get in Touch
+<div align="right">
+<h4>Frameworks/Libraries</h4>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png"/>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/odoo.png"/>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"/>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png"/>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png"/>
+</div>
 
-Feel free to reach out if you want to collaborate on a project, have a question, or just want to connect!
+<div align="left">
+<h4>Databases</h4>
+<div>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"/>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png"/>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png"/>
+</div>
 
-- LinkedIn: [in/bhabishwor-gurung](https://www.linkedin.com/in/bhabishwor-gurung/)
-- Email: [bhabishworgrg@gmail.com](mailto:bhabishworgrg@gmail.com)
+<div align="right">
+<h4>Cloud & DevOps</h4>
+<div>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png"/>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png"/>
+</div>
 
-Thanks for visiting my profile, and happy coding! 🚀
+<div align="left">
+<h4>Other Tools</h4>
+<div>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"/>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png"/>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png"/>
+    <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png"/>
+</div>
+
+#### GitHub Stats
+<div align="center">
+  <div>
+    <img width="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhabishworgrg&theme=dark"/> 
+    <img width="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhabishworgrg&theme=dark"/> 
+  </div>
+  <img width="400" src="https://gh-readme-profile.vercel.app/api?username=Bhabishworgrg&theme=dark"/>
+</div>
+
+
+#### Get in Touch
+
+[<img src="https://img.shields.io/badge/email-white?&style=for-the-badge&logo=gmail" alt="Email"/>](mailto:bhabishworgrg@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-blue?&style=for-the-badge" alt="LinkedIn"/>](https://www.linkedin.com/in/bhabishwor-gurung/)
+
+<p align="center">
+    <em>Building things, one commit at a time.</em>
+</p>
