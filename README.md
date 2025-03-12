@@ -14,7 +14,7 @@ I’m [Bhabishwor](https://bhabishworgrg.github.io/), an aspiring backend develo
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png"/>
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png"/>
     </div>
-    <div align="right">
+    <div>
         <h4>Frameworks/Libraries</h4>
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png"/>
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/odoo.png"/>
@@ -28,7 +28,7 @@ I’m [Bhabishwor](https://bhabishworgrg.github.io/), an aspiring backend develo
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png"/>
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png"/>
     </div>
-    <div align="right">
+    <div>
         <h4>Cloud & DevOps</h4>
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png"/>
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png"/>
