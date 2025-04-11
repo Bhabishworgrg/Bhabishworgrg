@@ -43,7 +43,7 @@ I’m [Bhabishwor](https://bhabishworgrg.github.io/), an aspiring backend develo
 </div>
 
 <div align="center">
-    <img src="https://gh-readme-profile.vercel.app/api?username=Bhabishworgrg&theme=dark"/>
+    <img src="https://gh-readme-profile.vercel.app/api?username=Bhabishworgrg&theme=catppuccin-mocha&hide=forks,issues&disabled_animations=true"/>
 </div>
 
 #### Get in Touch
