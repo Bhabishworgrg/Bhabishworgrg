@@ -8,11 +8,8 @@ I’m [Bhabishwor](https://bhabishworgrg.github.io/), an aspiring backend develo
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"/>
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"/>
+        <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"/>
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png"/>
-        <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png"/>
-        <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png"/>
-        <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png"/>
-        <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png"/>
     </div>
     <div>
         <h4>Frameworks/Libraries</h4>
@@ -29,14 +26,10 @@ I’m [Bhabishwor](https://bhabishworgrg.github.io/), an aspiring backend develo
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png"/>
     </div>
     <div>
-        <h4>Cloud & DevOps</h4>
-        <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png"/>
-        <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png"/>
-    </div>
-    <div>
         <h4>Other Tools</h4>
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"/>
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png"/>
+        <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"/>
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png"/>
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png"/>
     </div>
