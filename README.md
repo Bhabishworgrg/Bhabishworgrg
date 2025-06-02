@@ -1,6 +1,8 @@
 ### Hi there, 👋
 I’m [Bhabishwor](https://bhabishworgrg.github.io/), an aspiring backend developer.
 
+---
+
 <div>
     <div>
         <h4>Languages</h4>
@@ -35,9 +37,20 @@ I’m [Bhabishwor](https://bhabishworgrg.github.io/), an aspiring backend develo
     </div>
 </div>
 
+---
+
+#### GitHub Stats
 <div align="center">
-    <img src="https://gh-readme-profile.vercel.app/api?username=Bhabishworgrg&theme=catppuccin-mocha&hide=forks,issues&disabled_animations=true"/>
+    <img src="https://github-profile-trophy.vercel.app?username=Bhabishworgrg&theme=juicyfresh&margin-w=15&column=-1" alt="trophy graph"/>
 </div>
+
+<br>
+
+<div align="center">
+    <img src="https://gh-readme-profile.vercel.app/api?username=Bhabishworgrg&theme=catppuccin-mocha&hide=forks,issues"/>
+</div>
+
+---
 
 #### Get in Touch
 [<img src="https://img.shields.io/badge/email-white?&style=for-the-badge&logo=gmail" alt="Email"/>](mailto:bhabishworgrg@gmail.com)
