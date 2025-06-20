@@ -47,7 +47,7 @@ I’m [Bhabishwor](https://bhabishworgrg.github.io/), an aspiring backend develo
 <br>
 
 <div align="center">
-    <img src="https://gh-readme-profile.vercel.app/api?username=Bhabishworgrg&theme=catppuccin-mocha&hide=forks,issues"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Bhabishworgrg&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true"/>
 </div>
 
 ---
