@@ -13,16 +13,16 @@ I’m [Bhabishwor](https://bhabishworgrg.github.io/), an aspiring backend develo
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png"/>
     </div>
     <div>
-        <h4>Frameworks/Libraries</h4>
+        <h4>Frameworks</h4>
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png"/>
+        <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png"/>
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/odoo.png"/>
-        <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"/>
-        <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png"/>
-        <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png"/>
     </div>
     <div>
         <h4>Databases</h4>
+        <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"/>
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"/>
+        <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"/>
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png"/>
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png"/>
     </div>
@@ -40,7 +40,7 @@ I’m [Bhabishwor](https://bhabishworgrg.github.io/), an aspiring backend develo
 
 #### GitHub Stats
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app?username=Bhabishworgrg&theme=juicyfresh&margin-w=15&column=-1" alt="trophy graph"/>
+    <img src="https://github-profile-trophy.vercel.app?username=Bhabishworgrg&theme=juicyfresh&margin-w=15&column=-1" alt=""/>
 </div>
 
 <br>
