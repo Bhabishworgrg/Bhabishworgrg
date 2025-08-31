@@ -16,6 +16,7 @@ I’m [Bhabishwor](https://bhabishworgrg.github.io/), an aspiring backend develo
         <h4>Frameworks</h4>
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png"/>
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png"/>
+        <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png"/>
         <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/odoo.png"/>
     </div>
     <div>
