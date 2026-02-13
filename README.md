@@ -1,7 +1,6 @@
 ### Hi there, 👋
 I’m [Bhabishwor](https://bhabishwor.com.np/), an aspiring developer.
 
----
 
 #### Technologies
 <div>
@@ -14,7 +13,6 @@ I’m [Bhabishwor](https://bhabishwor.com.np/), an aspiring developer.
     <img height="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png"/>
 </div>
 
----
 
 #### Get in Touch
 [<img src="https://img.shields.io/badge/email-white?&style=for-the-badge&logo=gmail" alt="Email"/>](mailto:bhabishwor@proton.me)
